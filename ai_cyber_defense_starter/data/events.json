@@ -1,0 +1,363 @@
+[
+  {
+    "event_id": "evt-001",
+    "timestamp": null,
+    "source": "demo-auth",
+    "event_type": "login_failed",
+    "source_ip": "192.0.2.10",
+    "username": "demo_user",
+    "message": "User authentication failed",
+    "metadata": {},
+    "analysis": {
+      "event_id": "evt-001",
+      "timestamp": "2026-10-29T16:23:32.695402+00:00",
+      "event_type": "login_failed",
+      "source_ip": "192.0.2.10",
+      "username": "demo_user",
+      "risk_score": 35,
+      "severity": "medium",
+      "reasons": [
+        "Failed authentication event"
+      ],
+      "recommended_action": "Review related events and monitor for recurrence."
+    }
+  },
+  {
+    "event_id": "evt-001",
+    "timestamp": null,
+    "source": "demo-auth",
+    "event_type": "login_failed",
+    "source_ip": "192.0.2.10",
+    "username": "demo_user",
+    "message": "User authentication failed",
+    "metadata": {},
+    "analysis": {
+      "event_id": "evt-001",
+      "timestamp": "2026-10-29T16:23:38.589023+00:00",
+      "event_type": "login_failed",
+      "source_ip": "192.0.2.10",
+      "username": "demo_user",
+      "risk_score": 35,
+      "severity": "medium",
+      "reasons": [
+        "Failed authentication event"
+      ],
+      "recommended_action": "Review related events and monitor for recurrence."
+    }
+  },
+  {
+    "event_id": "evt-001",
+    "timestamp": null,
+    "source": "demo-auth",
+    "event_type": "login_failed",
+    "source_ip": "192.0.2.10",
+    "username": "demo_user",
+    "message": "User authentication failed",
+    "metadata": {},
+    "analysis": {
+      "event_id": "evt-001",
+      "timestamp": "2026-10-29T16:23:42.493153+00:00",
+      "event_type": "login_failed",
+      "source_ip": "192.0.2.10",
+      "username": "demo_user",
+      "risk_score": 35,
+      "severity": "medium",
+      "reasons": [
+        "Failed authentication event"
+      ],
+      "recommended_action": "Review related events and monitor for recurrence."
+    }
+  },
+  {
+    "event_id": "evt-001",
+    "timestamp": null,
+    "source": "demo-auth",
+    "event_type": "login_failed",
+    "source_ip": "192.0.2.10",
+    "username": "demo_user",
+    "message": "User authentication failed",
+    "metadata": {},
+    "analysis": {
+      "event_id": "evt-001",
+      "timestamp": "2026-10-29T16:33:17.964897+00:00",
+      "event_type": "login_failed",
+      "source_ip": "192.0.2.10",
+      "username": "demo_user",
+      "risk_score": 35,
+      "severity": "medium",
+      "reasons": [
+        "Failed authentication event"
+      ],
+      "recommended_action": "Review related events and monitor for recurrence."
+    }
+  },
+  {
+    "event_id": "evt-001",
+    "timestamp": "2026-10-29T16:38:26.472847+00:00",
+    "source": "demo-auth",
+    "event_type": "login_failed",
+    "source_ip": "192.0.2.10",
+    "username": "demo_user",
+    "message": "User authentication failed",
+    "metadata": {},
+    "analysis": {
+      "event_id": "evt-001",
+      "timestamp": "2026-10-29T16:38:26.472847+00:00",
+      "event_type": "login_failed",
+      "source_ip": "192.0.2.10",
+      "username": "demo_user",
+      "risk_score": 35,
+      "severity": "medium",
+      "reasons": [
+        "Failed authentication event"
+      ],
+      "recommended_action": "Review related events and monitor for recurrence."
+    }
+  },
+  {
+    "event_id": "brute-001",
+    "timestamp": "2026-10-29T16:40:37.016193+00:00",
+    "source": "demo-auth",
+    "event_type": "login_failed",
+    "source_ip": "192.0.2.50",
+    "username": "test_user",
+    "message": "User authentication failed",
+    "metadata": {},
+    "analysis": {
+      "event_id": "brute-001",
+      "timestamp": "2026-10-29T16:40:37.016193+00:00",
+      "event_type": "login_failed",
+      "source_ip": "192.0.2.50",
+      "username": "test_user",
+      "risk_score": 35,
+      "severity": "medium",
+      "reasons": [
+        "Failed authentication event"
+      ],
+      "recommended_action": "Review related events and monitor for recurrence."
+    }
+  },
+  {
+    "event_id": "brute-002",
+    "timestamp": "2026-10-29T16:41:39.017157+00:00",
+    "source": "demo-auth",
+    "event_type": "login_failed",
+    "source_ip": "192.0.2.50",
+    "username": "test_user",
+    "message": "User authentication failed",
+    "metadata": {},
+    "analysis": {
+      "event_id": "brute-002",
+      "timestamp": "2026-10-29T16:41:39.017157+00:00",
+      "event_type": "login_failed",
+      "source_ip": "192.0.2.50",
+      "username": "test_user",
+      "risk_score": 35,
+      "severity": "medium",
+      "reasons": [
+        "Failed authentication event"
+      ],
+      "recommended_action": "Review related events and monitor for recurrence."
+    }
+  },
+  {
+    "event_id": "brute-003",
+    "timestamp": "2026-10-29T16:41:49.741109+00:00",
+    "source": "demo-auth",
+    "event_type": "login_failed",
+    "source_ip": "192.0.2.50",
+    "username": "test_user",
+    "message": "User authentication failed",
+    "metadata": {},
+    "analysis": {
+      "event_id": "brute-003",
+      "timestamp": "2026-10-29T16:41:49.741109+00:00",
+      "event_type": "login_failed",
+      "source_ip": "192.0.2.50",
+      "username": "test_user",
+      "risk_score": 35,
+      "severity": "medium",
+      "reasons": [
+        "Failed authentication event"
+      ],
+      "recommended_action": "Review related events and monitor for recurrence."
+    }
+  },
+  {
+    "event_id": "brute-003",
+    "timestamp": "2026-10-29T16:41:55.320309+00:00",
+    "source": "demo-auth",
+    "event_type": "login_failed",
+    "source_ip": "192.0.2.50",
+    "username": "test_user",
+    "message": "User authentication failed",
+    "metadata": {},
+    "analysis": {
+      "event_id": "brute-003",
+      "timestamp": "2026-10-29T16:41:55.320309+00:00",
+      "event_type": "login_failed",
+      "source_ip": "192.0.2.50",
+      "username": "test_user",
+      "risk_score": 35,
+      "severity": "medium",
+      "reasons": [
+        "Failed authentication event"
+      ],
+      "recommended_action": "Review related events and monitor for recurrence."
+    }
+  },
+  {
+    "event_id": "brute-004",
+    "timestamp": "2026-10-29T16:42:04.794408+00:00",
+    "source": "demo-auth",
+    "event_type": "login_failed",
+    "source_ip": "192.0.2.50",
+    "username": "test_user",
+    "message": "User authentication failed",
+    "metadata": {},
+    "analysis": {
+      "event_id": "brute-004",
+      "timestamp": "2026-10-29T16:42:04.794408+00:00",
+      "event_type": "login_failed",
+      "source_ip": "192.0.2.50",
+      "username": "test_user",
+      "risk_score": 85,
+      "severity": "high",
+      "reasons": [
+        "Failed authentication event",
+        "Possible brute-force activity: 5 failed logins from the same IP within five minutes"
+      ],
+      "recommended_action": "Escalate for analyst review and investigate the source IP. No automatic blocking is performed."
+    }
+  },
+  {
+    "event_id": "brute-005",
+    "timestamp": "2026-10-29T16:42:24.023062+00:00",
+    "source": "demo-auth",
+    "event_type": "login_failed",
+    "source_ip": "192.0.2.50",
+    "username": "test_user",
+    "message": "User authentication failed",
+    "metadata": {},
+    "analysis": {
+      "event_id": "brute-005",
+      "timestamp": "2026-10-29T16:42:24.023062+00:00",
+      "event_type": "login_failed",
+      "source_ip": "192.0.2.50",
+      "username": "test_user",
+      "risk_score": 85,
+      "severity": "high",
+      "reasons": [
+        "Failed authentication event",
+        "Possible brute-force activity: 6 failed logins from the same IP within five minutes"
+      ],
+      "recommended_action": "Escalate for analyst review and investigate the source IP. No automatic blocking is performed."
+    }
+  },
+  {
+    "event_id": "ml-test-001",
+    "timestamp": "2026-10-29T17:02:35.744680+00:00",
+    "source": "demo-auth",
+    "event_type": "login_failed",
+    "source_ip": "192.0.2.80",
+    "username": "test_user",
+    "message": "Unusual authentication activity",
+    "metadata": {
+      "failed_logins": 20,
+      "requests_per_minute": 400,
+      "unusual_port": 1,
+      "malware_alert": 0
+    },
+    "analysis": {
+      "event_id": "ml-test-001",
+      "timestamp": "2026-10-29T17:02:35.744680+00:00",
+      "event_type": "login_failed",
+      "source_ip": "192.0.2.80",
+      "username": "test_user",
+      "risk_score": 35,
+      "severity": "medium",
+      "reasons": [
+        "Failed authentication event"
+      ],
+      "recommended_action": "Review related events and monitor for recurrence.",
+      "ml_analysis": {
+        "is_anomaly": true,
+        "anomaly_score": -0.0008,
+        "model": "IsolationForest"
+      }
+    }
+  },
+  {
+    "event_id": "ml-test-001",
+    "timestamp": "2026-10-29T17:02:38.353987+00:00",
+    "source": "demo-auth",
+    "event_type": "login_failed",
+    "source_ip": "192.0.2.80",
+    "username": "test_user",
+    "message": "Unusual authentication activity",
+    "metadata": {
+      "failed_logins": 20,
+      "requests_per_minute": 400,
+      "unusual_port": 1,
+      "malware_alert": 0
+    },
+    "analysis": {
+      "event_id": "ml-test-001",
+      "timestamp": "2026-10-29T17:02:38.353987+00:00",
+      "event_type": "login_failed",
+      "source_ip": "192.0.2.80",
+      "username": "test_user",
+      "risk_score": 35,
+      "severity": "medium",
+      "reasons": [
+        "Failed authentication event"
+      ],
+      "recommended_action": "Review related events and monitor for recurrence.",
+      "ml_analysis": {
+        "is_anomaly": true,
+        "anomaly_score": -0.0008,
+        "model": "IsolationForest"
+      }
+    }
+  },
+  {
+    "event_id": "soc-integration-001",
+    "timestamp": "2026-10-29T17:08:16.307231+00:00",
+    "source": "demo-auth",
+    "event_type": "login_failed",
+    "source_ip": "192.0.2.90",
+    "username": "demo_user",
+    "message": "Suspicious authentication activity",
+    "metadata": {
+      "failed_logins": 20,
+      "requests_per_minute": 400,
+      "unusual_port": 1,
+      "malware_alert": 0
+    },
+    "analysis": {
+      "event_id": "soc-integration-001",
+      "timestamp": "2026-10-29T17:08:16.307231+00:00",
+      "event_type": "login_failed",
+      "source_ip": "192.0.2.90",
+      "username": "demo_user",
+      "risk_score": 35,
+      "severity": "medium",
+      "reasons": [
+        "Failed authentication event"
+      ],
+      "recommended_action": "Review related events and monitor for recurrence.",
+      "ml_analysis": {
+        "is_anomaly": true,
+        "anomaly_score": -0.0008,
+        "model": "IsolationForest"
+      },
+      "agent_report": {
+        "event_id": "soc-integration-001",
+        "severity": "medium",
+        "ml_anomaly": true,
+        "recommended_action": "Investigate related events and monitor",
+        "status": "Analysis complete"
+      }
+    }
+  }
+]
